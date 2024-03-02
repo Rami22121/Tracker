@@ -22,5 +22,5 @@ The Personal Expense Tracker is a simple, user-friendly desktop application desi
 
 2. **Clone the repository**:
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/Rami22121/Tracker.git
    cd your-project-directory
